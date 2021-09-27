@@ -13,7 +13,7 @@ let pname=process.args[2]
         });
             await getallinks(links[0],browser,pname);
             );
-            
+     
         } catch (error) {
             console.log(error);
         }
