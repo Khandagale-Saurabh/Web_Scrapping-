@@ -22,5 +22,7 @@ let pname=process.args[2]
 async function getallinks(links,browser,pname) 
 {
     
+        
+       
 }
       
